@@ -12,7 +12,7 @@ Built a predictive model for customer churn at an insurance company using custom
 ### 💬 Sentiment Classification | BERT, Transformers  
 Embedded text using a pre-trained BERT model and trained a classifier on sentimentlabels.  
 - Included end-to-end data preprocessing, tokenization, and model training.
-- Achieved roc_auc of .94 while handling class imbalance and text variability.
+- Achieved ROC AUC of .94 while handling class imbalance and text variability.
 
 ### 🧠 Age Prediction from Faces | CNN, Keras  
 Built a deep learning model to estimate real-world age from facial images using the APPA-REAL dataset.  
@@ -22,8 +22,8 @@ Built a deep learning model to estimate real-world age from facial images using 
 
 ### 🚕 Time Series Forecasting | XGBoost, Lag Features, Cyclic Encoding  
 Forecasted hourly taxi demand using time-based features and gradient boosting models.  
-- Engineered cyclic features (hour-of-day, day-of-week) and lag-based variables.
-- Compared predictions against a naive "last value" baseline and significantly reduced MAE (58.81 to 35.80) 
+- Engineered lag-based variables to capture cyclic patterns in target variable (hour of day, hour of week) as well as the previous hour. 
+- Compared predictions against a naive "last value" baseline and significantly reduced RMSE (58.81 to 35.80) 
 
 ## ⚙️ Tools & Libraries
 Python, Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, Hugging Face Transformers, Matplotlib, Seaborn

@@ -26,7 +26,12 @@ Forecasted hourly taxi demand using time-based features and gradient boosting mo
 - Compared predictions against a naive "last value" baseline and significantly reduced RMSE (58.81 to 35.80) 
 
 ## ⚙️ Tools & Libraries
-Python, Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, Hugging Face Transformers, Matplotlib, Seaborn
+Python, SQL, R, Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, BERT, Matplotlib, Seaborn
 
 ## 📌 Interests
 Gradient boosting, deep learning, NLP, time series forecasting, and model interpretability
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/brett-kunkel](https://linkedin.com/in/brett-kunkel)
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: brttkunkel@gmail.com

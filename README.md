@@ -34,5 +34,4 @@ Gradient boosting, deep learning, NLP, time series forecasting, and model interp
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/brett-kunkel](https://linkedin.com/in/brett-kunkel)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - Email: brttkunkel@gmail.com

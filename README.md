@@ -23,7 +23,7 @@ Built a deep learning model to estimate real-world age from facial images using 
 ### 🚕 Time Series Forecasting | SARIMA, TBATS, Lag Features, Cyclic Date Time Features  
 Forecasted hourly taxi demand using time-based features .  
 - Engineered lag-based variables to capture cyclic patterns in target variable (hour of day, hour of week) as well as the previous hour.
-- Created models to forecast muldtiple forecast lengths: 1 hour ahead, 12 hours ahead, 1 day ahead, 3 days ahead, 1 week ahead 
+- Created models to forecast multiple forecast lengths: 1 hour ahead, 12 hours ahead, 1 day ahead, 3 days ahead, 1 week ahead 
 - Best model NRMSE: 0.672 compared to 0.81,	0.95,	0.84, for naive predictors that predicted lags of 24, 72, and 168 hours respectively
 
 ## ⚙️ Tools & Libraries

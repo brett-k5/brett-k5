@@ -27,7 +27,7 @@ Forecasted hourly taxi demand using time-based features .
 - Best model NRMSE: 0.672 compared to 0.81,	0.95,	0.84, for naive predictors that predicted lags of 24, 72, and 168 hours respectively
 
 ## ⚙️ Tools & Libraries
-Python, SQL, R, Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, BERT, Matplotlib, Seaborn
+Python, SQL, JavaScript, Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, BERT, Matplotlib, Seaborn
 
 ## 📌 Interests
 Gradient boosting, deep learning, NLP, time series forecasting, and model interpretability
